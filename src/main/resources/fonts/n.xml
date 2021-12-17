@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="ngu">
+        <normal><![CDATA[fonts/Arial/a.ttf]]></normal>
+        <bold><![CDATA[fonts/Arial/abd.ttf]]></bold>
+        <italic><![CDATA[fonts/Arial/ai.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/Arial/abi.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+    <fontFamily name="Times New Roman">
+        <normal><![CDATA[fonts/Times/times.ttf]]></normal>
+        <bold><![CDATA[fonts/Times/timesbd.ttf]]></bold>
+        <italic><![CDATA[fonts/Times/timesi.ttf]]></italic>
+        <boldItalic><![CDATA[fonts/Times/timesbi.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+        <exportFonts/>
+    </fontFamily>
+</fontFamilies>
